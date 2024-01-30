@@ -286,7 +286,7 @@ Tickets:
 
     Logs:
         Enabled: true
-        Channel: "logs"
+        Channel: "🔑〡corebot-logs"
 
     Transcripts:
         Enabled: true
@@ -317,11 +317,11 @@ AntiAdvertisement:
         Enabled: true
         Logs:
             Enabled: true
-            Channel: "logs"
+            Channel: "🔑〡corebot-logs"
 
     Status:
         Enabled: false
-        Channel: "logs"
+        Channel: "🔑〡corebot-logs"
 
     Whitelist:
         Websites:
@@ -557,7 +557,7 @@ Applications:
 
     Logs:
         Enabled: true
-        Channel: "logs"
+        Channel: "🔑〡corebot-logs"
         PasteSite: "https://paste.corebot.dev"
 
     Transcripts:
@@ -615,7 +615,7 @@ Moderation:
 
     Logs:
         Enabled: true
-        Channel: "logs"
+        Channel: "🔑〡corebot-logs"
 
     AutoWarnPunishments:
         3: [tempmute, Auto Punish, 10m]
@@ -729,26 +729,26 @@ Logs:
         - "SwitchVoiceChannel"
 
     Channels:
-        MessageEdited: "logs"
-        MessageDeleted: "logs"
-        MessageDeleteBulk: "logs"
-        GuildMemberUpdated: "logs"
-        Commands: "logs"
-        ChannelCreated: "logs"
-        ChannelDeleted: "logs"
-        ChannelUpdated: "logs"
-        ChannelPinsUpdated: "logs"
-        EmojiCreated: "logs"
-        EmojiDeleted: "logs"
-        EmojiUpdated: "logs"
-        RoleCreated: "logs"
-        RoleDeleted: "logs"
-        RoleUpdated: "logs"
-        DMs: "logs"
-        MemberBoosted: "logs"
-        JoinVoiceChannel: "logs"
-        LeaveVoiceChannel: "logs"
-        SwitchVoiceChannel: "logs"
+        MessageEdited: "🔑〡corebot-logs"
+        MessageDeleted: "🔑〡corebot-logs"
+        MessageDeleteBulk: "🔑〡corebot-logs"
+        GuildMemberUpdated: "🔑〡corebot-logs"
+        Commands: "🔑〡corebot-logs"
+        ChannelCreated: "🔑〡corebot-logs"
+        ChannelDeleted: "🔑〡corebot-logs"
+        ChannelUpdated: "🔑〡corebot-logs"
+        ChannelPinsUpdated: "🔑〡corebot-logs"
+        EmojiCreated: "🔑〡corebot-logs"
+        EmojiDeleted: "🔑〡corebot-logs"
+        EmojiUpdated: "🔑〡corebot-logs"
+        RoleCreated: "🔑〡corebot-logs"
+        RoleDeleted: "🔑〡corebot-logs"
+        RoleUpdated: "🔑〡corebot-logs"
+        DMs: "🔑〡corebot-logs"
+        MemberBoosted: "🔑〡corebot-logs"
+        JoinVoiceChannel: "🔑〡corebot-logs"
+        LeaveVoiceChannel: "🔑〡corebot-logs"
+        SwitchVoiceChannel: "🔑〡corebot-logs"
 
     ChannelBlacklist: 
         - "channel name / id here"
@@ -926,8 +926,8 @@ Channels:
     DefaultVote: "polls"
     DefaultUpdates: "updates"
     DefaultAnnouncements: "announcements"
-    ImageLogs: "logs"
-    TranscriptFileLogs: "logs"
+    ImageLogs: "🔑〡corebot-logs"
+    TranscriptFileLogs: "🔑〡corebot-logs"
 
 ########################################
 #                                      #

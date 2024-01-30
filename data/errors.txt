@@ -1,0 +1,10 @@
+[CALLER: Promise {
+  <rejected> ReferenceError: prcess is not defined
+      at D:\cbt\index.js:235:15
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+} | MS: 1706644376045 | DATE: 1/31/2024, 1:22:56 AM]
+-------------------------------------
+ReferenceError: prcess is not defined
+EXTRA INFO:
+Unknown
+-------------------------------------
