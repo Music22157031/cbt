@@ -232,7 +232,7 @@ installModules().then(async () => {
   });
 
   Utils.yml("./configs/config.yml").then((config) => {
-    bot.login(prcess.env.Token).catch((error) => {
+    bot.login(process.env.Token).catch((error) => {
       if (error.message.includes("An invalid token was provided")) {
         console.log(
           Utils.errorPrefix + "Your bot token is incorrect! Shutting down...",
